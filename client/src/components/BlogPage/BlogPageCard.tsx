@@ -75,9 +75,11 @@ export default function BlogPageCard({
               alt={caption || ""}
               className="w-full h-full object-cover"
             />
-            {isVideo && <div className="absolute top-2 right-2 bg-black/60 text-white px-2 py-1 text-xs rounded">
-              ▶ {t("blog.play")}
-            </div>}
+            {isVideo && (
+              <div className="absolute top-2 right-2 bg-black/60 text-white px-2 py-1 text-xs rounded">
+                ▶ {t("blog.play")}
+              </div>
+            )}  
           </a>
         )}
       </div>
