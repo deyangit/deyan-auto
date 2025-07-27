@@ -1,0 +1,91 @@
+{
+  "nav": {
+    "home": "Home",
+    "services": "Services",
+    "blog": "Blog"
+  },
+  "button": {
+    "callUs": "Call us"
+  },
+  "language": {
+    "russian": "Russian",
+    "english": "English",
+    "polish": "Polish"
+  },
+  "hero": {
+    "titleMobile": "Auto repair\nin Warsaw",
+    "titleDesktop": "Premium\nAuto repair",
+    "subtitle": "Fast. Reliable. Affordable.",
+    "clients": "HAPPY CLIENTS",
+    "callUs": "Call us"
+  },
+  "services": {
+    "title": "Our Services",
+    "seeAll": "See All",
+    "items": {
+      "tire": "Tire Fitting",
+      "diagnostic": "Repair & Diagnostics",
+      "maintenance": "Maintenance Service",
+      "moto": "Motorbike Service",
+      "ac": "AC Refilling"
+    },
+    "descriptions": {
+      "tire": "We replace tires quickly, precisely, and with full safety. Using modern equipment – you save time and get the job done right.",
+      "diagnostic": "We quickly detect and efficiently fix problems. Using professional diagnostics, we guarantee high-quality repairs with no delays.",
+      "moto": "Your motorcycle is in good hands. We service it precisely, on time, and with passion – because we know how important reliability is.",
+      "maintenance": "We take care of every detail – from oil changes to full system checks. Everything is done thoroughly, quickly, and with your peace of mind in mind.",
+      "ac": "We refill and service air conditioning systems efficiently and reliably. Enjoy cool, fresh air even during the hottest days."
+    }
+  },
+  "why": {
+    "title": {
+      "first": "WHY",
+      "second": "US"
+    },
+    "speedTitle": "Speed and Quality",
+    "speedText": "Fast service without compromising quality — always on time and top level.",
+    "languagesTitle": "Barrier-Free Communication",
+    "languagesText": "Four languages, one standard — smooth communication in English, Polish, Ukrainian and Russian.",
+    "honestyTitle": "Transparency",
+    "honestyText": "Fair prices, clear terms, and a personal approach to every customer."
+  },
+  "partners": {
+    "title": "OUR PARTNERS"
+  },
+  "about": {
+    "title": "ABOUT US",
+    "paragraph1": "We are a <bold>premium car service in Warsaw</bold> with a special focus on high-class vehicles. As an <bold>official partner of BMW and Mercedes-Benz</bold>, we are authorized to enter service records into the service book, which preserves warranty and gives confidence to every owner.",
+    "paragraph2": "We service vehicles of brands like BMW, Porsche, Mercedes-Benz, Audi, Range Rover, and more, including motorcycles. We use <bold>original spare parts</bold> and <bold>professional equipment</bold>, and all work is performed by specialists who truly know what they’re doing."
+  },
+  "locations": {
+    "title": "LOCATIONS",
+    "center": "Warsaw Center",
+    "oldTown": "Old Town Center",
+    "piaseczno": "Piaseczno",
+    "openInMaps": "Open in Google Maps"
+  },
+  "form": {
+    "title": "CONTACT US",
+    "namePlaceholder": "Your Name",
+    "phonePlaceholder": "Phone Number",
+    "messagePlaceholder": "Message",
+    "submit": "Send",
+    "sending": "Sending...",
+    "success": "Message sent successfully!",
+    "error": "Failed to send. Try again later."
+  },
+  "blog": {
+    "title": "Blog",
+    "play": "Click to play",
+    "loading": "Loading..."
+  },
+  "toast": {
+    "addressCopied": "Address copied!",
+    "formSuccess": "Message sent successfully!",
+    "formError": "Failed to send. Please try again later."
+  },
+  "notFound": {
+  "title": "Page not found"
+  }
+
+}
