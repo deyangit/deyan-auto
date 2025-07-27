@@ -15,7 +15,6 @@ const IG_TOKEN = process.env.IG_TOKEN;
 
 const allowedOrigins = [
   "https://deyanauto.pl",
-  "http://localhost:5173"
 ]
 
 // CORS and middleware
