@@ -75,16 +75,16 @@ export default function BlogPageCard({
               alt={caption || ""}
               className="w-full h-full object-cover"
             />
-            <div className="absolute top-2 right-2 bg-black/60 text-white px-2 py-1 text-xs rounded">
+            {isVideo && <div className="absolute top-2 right-2 bg-black/60 text-white px-2 py-1 text-xs rounded">
               ▶ {t("blog.play")}
-            </div>
+            </div>}
           </a>
         )}
       </div>
 
-      {showSkeleton && <p className="text-[1.6rem] text-beige-200 font-manrope-regular">
+      <p className="text-[1.6rem] text-beige-200 font-manrope-regular">
         {caption || <span className="opacity-40">{t("blog.loading")}</span>}
-      </p>}
+      </p>
     </article>
   );
 }
