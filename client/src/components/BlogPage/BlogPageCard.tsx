@@ -82,9 +82,9 @@ export default function BlogPageCard({
         )}
       </div>
 
-      <p className="text-[1.6rem] text-beige-200 font-manrope-regular">
+      {showSkeleton && <p className="text-[1.6rem] text-beige-200 font-manrope-regular">
         {caption || <span className="opacity-40">{t("blog.loading")}</span>}
-      </p>
+      </p>}
     </article>
   );
 }
